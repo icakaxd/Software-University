@@ -1,4 +1,4 @@
-x, y = input().split(', ')
+x, y = [int(x) for x in input().split(', ')]
 matrix = []
 
 for _ in range(int(x)):
