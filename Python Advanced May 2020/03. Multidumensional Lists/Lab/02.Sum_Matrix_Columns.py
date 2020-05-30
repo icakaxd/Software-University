@@ -1,12 +1,12 @@
 x, y = [int(x) for x in input().split(', ')]
 
+matrix = [[int(x) for x in input().split()] for i in range(x)]
 
-
-
-
-
-
-
+for i in range(y):
+    result = 0
+    for k in range(x):
+        result += matrix[k][i]
+    print(result)
 
 '''
 3, 6
