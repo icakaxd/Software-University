@@ -1,5 +1,4 @@
 x, y = [int(x) for x in input().split(', ')]
-
 matrix = [[int(x) for x in input().split()] for i in range(x)]
 
 for i in range(y):
