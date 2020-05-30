@@ -19,10 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c095d5b3-cb94-40b4-b3c5-47e92aab61c8" name="Default Changelist" comment="idk">
-      <change afterPath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/03.Primary_Diagonal.py" afterDir="false" />
+    <list default="true" id="c095d5b3-cb94-40b4-b3c5-47e92aab61c8" name="Default Changelist" comment="Third problem solved with and without comprehensions.">
+      <change afterPath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/04.Symbol_Matrix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/02.Sum_Matrix_Columns.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/02.Sum_Matrix_Columns.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +60,7 @@
       <recent name="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.03.Primary_Diagonal">
+  <component name="RunManager" selected="Python.04.Symbol_Matrix">
     <configuration name="01.Sum_Matrix_Elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software-University" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,8 +127,31 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="04.Symbol_Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software-University" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/04.Symbol_Matrix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.04.Symbol_Matrix" />
         <item itemvalue="Python.03.Primary_Diagonal" />
         <item itemvalue="Python.02.Sum_Matrix_Columns" />
         <item itemvalue="Python.01.Sum_Matrix_Elements" />
@@ -147,7 +169,7 @@
       <option name="presentableId" value="Default" />
       <updated>1590540838970</updated>
       <workItem from="1590540840410" duration="76000" />
-      <workItem from="1590837239086" duration="3721000" />
+      <workItem from="1590837239086" duration="4207000" />
     </task>
     <task id="LOCAL-00001" summary="First problem solved both with comprehensions and normal loops.">
       <created>1590838838170</created>
@@ -177,7 +199,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590840430215</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Third problem solved with and without comprehensions.">
+      <created>1590840965157</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1590840965157</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,29 +227,31 @@
     <MESSAGE value="First problem solved both with comprehensions and normal loops." />
     <MESSAGE value="Second problem solved. Cannot think of a comprehension." />
     <MESSAGE value="idk" />
-    <option name="LAST_COMMIT_MESSAGE" value="idk" />
+    <MESSAGE value="Third problem solved with and without comprehensions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Third problem solved with and without comprehensions." />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1590840917689">
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1590841304438">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.28.1366.739@0.28.1366.739" timestamp="1590840917689" />
-    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1590840917688">
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.28.1366.739@0.28.1366.739" timestamp="1590841304438" />
+    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1590841304437">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.center/0.28.1366.739@0.28.1366.739" timestamp="1590840917688" />
-    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1590840917688">
+    <state width="1324" height="177" key="GridCell.Tab.0.center/0.28.1366.739@0.28.1366.739" timestamp="1590841304437" />
+    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1590841304435">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.left/0.28.1366.739@0.28.1366.739" timestamp="1590840917688" />
-    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1590840917688">
+    <state width="1324" height="177" key="GridCell.Tab.0.left/0.28.1366.739@0.28.1366.739" timestamp="1590841304435" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1590841304437">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.right/0.28.1366.739@0.28.1366.739" timestamp="1590840917688" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right/0.28.1366.739@0.28.1366.739" timestamp="1590841304437" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Software_University$02_Sum_Matrix_Columns.coverage" NAME="02.Sum_Matrix_Columns Coverage Results" MODIFIED="1590840564995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
-    <SUITE FILE_PATH="coverage/Software_University$03_Primary_Diagonal.coverage" NAME="03.Primary_Diagonal Coverage Results" MODIFIED="1590840917669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
+    <SUITE FILE_PATH="coverage/Software_University$03_Primary_Diagonal.coverage" NAME="03.Primary_Diagonal Coverage Results" MODIFIED="1590841243042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
     <SUITE FILE_PATH="coverage/Software_University$sum_matrix_elements.coverage" NAME="01.Sum_Matrix_Elements Coverage Results" MODIFIED="1590839132237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
+    <SUITE FILE_PATH="coverage/Software_University$04_Symbol_Matrix.coverage" NAME="04.Symbol_Matrix Coverage Results" MODIFIED="1590841304414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
   </component>
 </project>
