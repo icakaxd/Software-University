@@ -19,9 +19,22 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c095d5b3-cb94-40b4-b3c5-47e92aab61c8" name="Default Changelist" comment="Third problem solved with and without comprehensions.">
-      <change afterPath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/04.Symbol_Matrix.py" afterDir="false" />
+    <list default="true" id="c095d5b3-cb94-40b4-b3c5-47e92aab61c8" name="Default Changelist" comment="Forth problem solved without comprehensions.&#10;Solved it with comprehensions.">
+      <change afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/01.Word_Filter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/02.Words_Lengths.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/03.Capitals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/04.Number_Classification.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/05.Diagonals.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab/01.ASCII_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab/02.No_Vowels.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab/03.Even_Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab/04.Flattening_Matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab/05.Filter_Numbers.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Software-University.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Software-University.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/05.Square_with_Maximum_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/05.Square_with_Maximum_Sum.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +52,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1cT7gJf4WIZWKh48yCj81zUrWFd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -47,21 +61,24 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bots/SoftUniBot" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../../bots/SoftUniBot" />
       <recent name="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.04.Symbol_Matrix">
-    <configuration name="01.Sum_Matrix_Elements" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.05.Diagonals">
+    <configuration name="01.Word_Filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software-University" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,12 +86,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/01.Sum_Matrix_Elements.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/01.Word_Filter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -83,7 +100,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="02.Sum_Matrix_Columns" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02.Words_Lengths" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software-University" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,12 +108,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/02.Sum_Matrix_Columns.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/02.Words_Lengths.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -105,7 +122,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03.Primary_Diagonal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03.Capitals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software-University" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,12 +130,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/03.Primary_Diagonal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/03.Capitals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -127,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04.Symbol_Matrix" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04.Number_Classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software-University" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -135,12 +152,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/04.Symbol_Matrix.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/04.Number_Classification.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05.Diagonals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software-University" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/05.Diagonals.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,10 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.04.Symbol_Matrix" />
-        <item itemvalue="Python.03.Primary_Diagonal" />
-        <item itemvalue="Python.02.Sum_Matrix_Columns" />
-        <item itemvalue="Python.01.Sum_Matrix_Elements" />
+        <item itemvalue="Python.05.Diagonals" />
+        <item itemvalue="Python.04.Number_Classification" />
+        <item itemvalue="Python.03.Capitals" />
+        <item itemvalue="Python.02.Words_Lengths" />
+        <item itemvalue="Python.01.Word_Filter" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +209,14 @@
       <option name="presentableId" value="Default" />
       <updated>1590540838970</updated>
       <workItem from="1590540840410" duration="76000" />
-      <workItem from="1590837239086" duration="4207000" />
+      <workItem from="1590837239086" duration="8401000" />
+      <workItem from="1590847939238" duration="153000" />
+      <workItem from="1590861889715" duration="1969000" />
+      <workItem from="1590945146723" duration="26000" />
+      <workItem from="1590989173021" duration="20000" />
+      <workItem from="1590989196839" duration="474000" />
+      <workItem from="1591084317198" duration="10836000" />
+      <workItem from="1591250761601" duration="1413000" />
     </task>
     <task id="LOCAL-00001" summary="First problem solved both with comprehensions and normal loops.">
       <created>1590838838170</created>
@@ -206,7 +253,42 @@
       <option name="project" value="LOCAL" />
       <updated>1590840965157</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Forth problem solved without comprehensions.">
+      <created>1590841450685</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1590841450685</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Forth problem solved without comprehensions.&#10;Fixed 80/100 with 100/100">
+      <created>1590841690371</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1590841690371</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Forth problem solved without comprehensions.&#10;Solved it with comprehensions.">
+      <created>1590843934106</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1590843934106</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Forth problem solved without comprehensions.&#10;Solved it with comprehensions.">
+      <created>1590844669666</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1590844669666</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Unfinished labs (05).">
+      <created>1590847979686</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1590847979687</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -222,36 +304,78 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First problem solved both with comprehensions and normal loops." />
     <MESSAGE value="Second problem solved. Cannot think of a comprehension." />
     <MESSAGE value="idk" />
     <MESSAGE value="Third problem solved with and without comprehensions." />
-    <option name="LAST_COMMIT_MESSAGE" value="Third problem solved with and without comprehensions." />
+    <MESSAGE value="Forth problem solved without comprehensions." />
+    <MESSAGE value="Forth problem solved without comprehensions.&#10;Fixed 80/100 with 100/100" />
+    <MESSAGE value="Forth problem solved without comprehensions.&#10;Solved it with comprehensions." />
+    <MESSAGE value="Unfinished labs (05)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Unfinished labs (05)." />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1590841304438">
+    <state x="466" y="156" width="426" height="481" key="FileChooserDialogImpl" timestamp="1590848052398">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.28.1366.739@0.28.1366.739" timestamp="1590841304438" />
-    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1590841304437">
+    <state x="466" y="156" width="426" height="481" key="FileChooserDialogImpl/0.28.1366.739@0.28.1366.739" timestamp="1590848052398" />
+    <state width="1324" height="199" key="GridCell.Tab.0.bottom" timestamp="1591252132884">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.center/0.28.1366.739@0.28.1366.739" timestamp="1590841304437" />
-    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1590841304435">
+    <state width="1324" height="199" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1590846552602">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.left/0.28.1366.739@0.28.1366.739" timestamp="1590841304435" />
-    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1590841304437">
+    <state width="1324" height="199" key="GridCell.Tab.0.bottom.inPresentationMode/0.28.1366.739@0.28.1366.739" timestamp="1590846552602" />
+    <state width="1324" height="199" key="GridCell.Tab.0.bottom/0.28.1366.739@0.28.1366.739" timestamp="1591252132884" />
+    <state width="1324" height="199" key="GridCell.Tab.0.center" timestamp="1591252132884">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.right/0.28.1366.739@0.28.1366.739" timestamp="1590841304437" />
+    <state width="1324" height="199" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1590846552601">
+      <screen x="0" y="28" width="1366" height="739" />
+    </state>
+    <state width="1324" height="199" key="GridCell.Tab.0.center.inPresentationMode/0.28.1366.739@0.28.1366.739" timestamp="1590846552601" />
+    <state width="1324" height="199" key="GridCell.Tab.0.center/0.28.1366.739@0.28.1366.739" timestamp="1591252132884" />
+    <state width="1324" height="199" key="GridCell.Tab.0.left" timestamp="1591252132883">
+      <screen x="0" y="28" width="1366" height="739" />
+    </state>
+    <state width="1324" height="199" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1590846552601">
+      <screen x="0" y="28" width="1366" height="739" />
+    </state>
+    <state width="1324" height="199" key="GridCell.Tab.0.left.inPresentationMode/0.28.1366.739@0.28.1366.739" timestamp="1590846552601" />
+    <state width="1324" height="199" key="GridCell.Tab.0.left/0.28.1366.739@0.28.1366.739" timestamp="1591252132883" />
+    <state width="1324" height="199" key="GridCell.Tab.0.right" timestamp="1591252132884">
+      <screen x="0" y="28" width="1366" height="739" />
+    </state>
+    <state width="1324" height="199" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1590846552602">
+      <screen x="0" y="28" width="1366" height="739" />
+    </state>
+    <state width="1324" height="199" key="GridCell.Tab.0.right.inPresentationMode/0.28.1366.739@0.28.1366.739" timestamp="1590846552602" />
+    <state width="1324" height="199" key="GridCell.Tab.0.right/0.28.1366.739@0.28.1366.739" timestamp="1591252132884" />
+    <state x="333" y="37" key="SettingsEditor" timestamp="1590847020824">
+      <screen x="0" y="28" width="1366" height="739" />
+    </state>
+    <state x="333" y="37" key="SettingsEditor/0.28.1366.739@0.28.1366.739" timestamp="1590847020824" />
+    <state x="278" y="134" width="802" height="525" key="Vcs.Push.Dialog.v2" timestamp="1590847985329">
+      <screen x="0" y="28" width="1366" height="739" />
+    </state>
+    <state x="278" y="134" width="802" height="525" key="Vcs.Push.Dialog.v2/0.28.1366.739@0.28.1366.739" timestamp="1590847985329" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Software_University$02_Sum_Matrix_Columns.coverage" NAME="02.Sum_Matrix_Columns Coverage Results" MODIFIED="1590840564995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
+    <SUITE FILE_PATH="coverage/Software_University$05_Filter_Numbers.coverage" NAME="05.Filter_Numbers Coverage Results" MODIFIED="1591094154638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab" />
     <SUITE FILE_PATH="coverage/Software_University$03_Primary_Diagonal.coverage" NAME="03.Primary_Diagonal Coverage Results" MODIFIED="1590841243042" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
+    <SUITE FILE_PATH="coverage/Software_University$05_Diagonals.coverage" NAME="05.Diagonals Coverage Results" MODIFIED="1591252177200" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
     <SUITE FILE_PATH="coverage/Software_University$sum_matrix_elements.coverage" NAME="01.Sum_Matrix_Elements Coverage Results" MODIFIED="1590839132237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
-    <SUITE FILE_PATH="coverage/Software_University$04_Symbol_Matrix.coverage" NAME="04.Symbol_Matrix Coverage Results" MODIFIED="1590841304414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
+    <SUITE FILE_PATH="coverage/Software_University$01_ASCII_Values.coverage" NAME="01.ASCII_Values Coverage Results" MODIFIED="1591086714379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab" />
+    <SUITE FILE_PATH="coverage/Software_University$02_Words_Lengths.coverage" NAME="02.Words_Lengths Coverage Results" MODIFIED="1591096802439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
+    <SUITE FILE_PATH="coverage/Software_University$02_Sum_Matrix_Columns.coverage" NAME="02.Sum_Matrix_Columns Coverage Results" MODIFIED="1590845034129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
+    <SUITE FILE_PATH="coverage/Software_University$04_Symbol_Matrix.coverage" NAME="04.Symbol_Matrix Coverage Results" MODIFIED="1590841556452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
+    <SUITE FILE_PATH="coverage/Software_University$03_Capitals.coverage" NAME="03.Capitals Coverage Results" MODIFIED="1591096924496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
+    <SUITE FILE_PATH="coverage/Software_University$03_Even_Matrix.coverage" NAME="03.Even_Matrix Coverage Results" MODIFIED="1591087333839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab" />
+    <SUITE FILE_PATH="coverage/Software_University$04_Flattening_Matrix.coverage" NAME="04.Flattening_Matrix Coverage Results" MODIFIED="1591093476568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab" />
+    <SUITE FILE_PATH="coverage/Software_University$04_Number_Classification.coverage" NAME="04.Number_Classification Coverage Results" MODIFIED="1591251778709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
+    <SUITE FILE_PATH="coverage/Software_University$01_Word_Filter.coverage" NAME="01.Word_Filter Coverage Results" MODIFIED="1591094359955" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
   </component>
 </project>
