@@ -14,4 +14,8 @@ $months = array(
     "December"
 );
 
-echo $months[(int)readline() - 1];
+$im = (int)readline() - 1;
+if($im < 12)
+    echo $months[$im];
+else
+    echo "Invalid Month!";
