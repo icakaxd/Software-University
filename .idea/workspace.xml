@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c095d5b3-cb94-40b4-b3c5-47e92aab61c8" name="Default Changelist" comment="Solved (06.) Matrix of Palindromes.">
-      <change afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/07.Flatten_Lists.py" afterDir="false" />
+    <list default="true" id="c095d5b3-cb94-40b4-b3c5-47e92aab61c8" name="Default Changelist" comment="75/100">
+      <change afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/08.Heroes_Inventory.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/06.Matrix_of_Palindromes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/06.Matrix_of_Palindromes.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,29 +65,7 @@
       <recent name="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.07.Flatten_Lists">
-    <configuration name="03.Capitals" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Software-University" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/03.Capitals.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.06.Matrix_of_Palindromes">
     <configuration name="04.Number_Classification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Software-University" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,13 +154,35 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="08.Heroes_Inventory" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Software-University" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/08.Heroes_Inventory.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.07.Flatten_Lists" />
         <item itemvalue="Python.06.Matrix_of_Palindromes" />
+        <item itemvalue="Python.08.Heroes_Inventory" />
+        <item itemvalue="Python.07.Flatten_Lists" />
         <item itemvalue="Python.05.Diagonals" />
         <item itemvalue="Python.04.Number_Classification" />
-        <item itemvalue="Python.03.Capitals" />
       </list>
     </recent_temporary>
   </component>
@@ -203,7 +204,7 @@
       <workItem from="1590989173021" duration="20000" />
       <workItem from="1590989196839" duration="474000" />
       <workItem from="1591084317198" duration="10836000" />
-      <workItem from="1591250761601" duration="4618000" />
+      <workItem from="1591250761601" duration="6077000" />
     </task>
     <task id="LOCAL-00001" summary="First problem solved both with comprehensions and normal loops.">
       <created>1590838838170</created>
@@ -289,7 +290,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591257764050</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="75/100">
+      <created>1591259171568</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1591259171568</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -318,45 +326,46 @@
     <MESSAGE value="Unfinished labs (05)." />
     <MESSAGE value="All comprehension labs and 5 exercises done." />
     <MESSAGE value="Solved (06.) Matrix of Palindromes." />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved (06.) Matrix of Palindromes." />
+    <MESSAGE value="75/100" />
+    <option name="LAST_COMMIT_MESSAGE" value="75/100" />
   </component>
   <component name="WindowStateProjectService">
     <state x="466" y="156" width="426" height="481" key="FileChooserDialogImpl" timestamp="1590848052398">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
     <state x="466" y="156" width="426" height="481" key="FileChooserDialogImpl/0.28.1366.739@0.28.1366.739" timestamp="1590848052398" />
-    <state width="1324" height="199" key="GridCell.Tab.0.bottom" timestamp="1591258851114">
+    <state width="1324" height="199" key="GridCell.Tab.0.bottom" timestamp="1591259817306">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
     <state width="1324" height="199" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1590846552602">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
     <state width="1324" height="199" key="GridCell.Tab.0.bottom.inPresentationMode/0.28.1366.739@0.28.1366.739" timestamp="1590846552602" />
-    <state width="1324" height="199" key="GridCell.Tab.0.bottom/0.28.1366.739@0.28.1366.739" timestamp="1591258851114" />
-    <state width="1324" height="199" key="GridCell.Tab.0.center" timestamp="1591258851113">
+    <state width="1324" height="199" key="GridCell.Tab.0.bottom/0.28.1366.739@0.28.1366.739" timestamp="1591259817306" />
+    <state width="1324" height="199" key="GridCell.Tab.0.center" timestamp="1591259817306">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
     <state width="1324" height="199" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1590846552601">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
     <state width="1324" height="199" key="GridCell.Tab.0.center.inPresentationMode/0.28.1366.739@0.28.1366.739" timestamp="1590846552601" />
-    <state width="1324" height="199" key="GridCell.Tab.0.center/0.28.1366.739@0.28.1366.739" timestamp="1591258851113" />
-    <state width="1324" height="199" key="GridCell.Tab.0.left" timestamp="1591258851112">
+    <state width="1324" height="199" key="GridCell.Tab.0.center/0.28.1366.739@0.28.1366.739" timestamp="1591259817306" />
+    <state width="1324" height="199" key="GridCell.Tab.0.left" timestamp="1591259817305">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
     <state width="1324" height="199" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1590846552601">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
     <state width="1324" height="199" key="GridCell.Tab.0.left.inPresentationMode/0.28.1366.739@0.28.1366.739" timestamp="1590846552601" />
-    <state width="1324" height="199" key="GridCell.Tab.0.left/0.28.1366.739@0.28.1366.739" timestamp="1591258851112" />
-    <state width="1324" height="199" key="GridCell.Tab.0.right" timestamp="1591258851113">
+    <state width="1324" height="199" key="GridCell.Tab.0.left/0.28.1366.739@0.28.1366.739" timestamp="1591259817305" />
+    <state width="1324" height="199" key="GridCell.Tab.0.right" timestamp="1591259817306">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
     <state width="1324" height="199" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1590846552602">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
     <state width="1324" height="199" key="GridCell.Tab.0.right.inPresentationMode/0.28.1366.739@0.28.1366.739" timestamp="1590846552602" />
-    <state width="1324" height="199" key="GridCell.Tab.0.right/0.28.1366.739@0.28.1366.739" timestamp="1591258851113" />
+    <state width="1324" height="199" key="GridCell.Tab.0.right/0.28.1366.739@0.28.1366.739" timestamp="1591259817306" />
     <state x="333" y="37" key="SettingsEditor" timestamp="1590847020824">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
@@ -374,9 +383,10 @@
     <SUITE FILE_PATH="coverage/Software_University$01_ASCII_Values.coverage" NAME="01.ASCII_Values Coverage Results" MODIFIED="1591086714379" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab" />
     <SUITE FILE_PATH="coverage/Software_University$02_Words_Lengths.coverage" NAME="02.Words_Lengths Coverage Results" MODIFIED="1591096802439" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
     <SUITE FILE_PATH="coverage/Software_University$02_Sum_Matrix_Columns.coverage" NAME="02.Sum_Matrix_Columns Coverage Results" MODIFIED="1590845034129" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
-    <SUITE FILE_PATH="coverage/Software_University$06_Matrix_of_Palindromes.coverage" NAME="06.Matrix_of_Palindromes Coverage Results" MODIFIED="1591257691940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
+    <SUITE FILE_PATH="coverage/Software_University$06_Matrix_of_Palindromes.coverage" NAME="06.Matrix_of_Palindromes Coverage Results" MODIFIED="1591260525219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
     <SUITE FILE_PATH="coverage/Software_University$04_Symbol_Matrix.coverage" NAME="04.Symbol_Matrix Coverage Results" MODIFIED="1590841556452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab" />
-    <SUITE FILE_PATH="coverage/Software_University$07_Flatten_Lists.coverage" NAME="07.Flatten_Lists Coverage Results" MODIFIED="1591258851091" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
+    <SUITE FILE_PATH="coverage/Software_University$08_Heroes_Inventory.coverage" NAME="08.Heroes_Inventory Coverage Results" MODIFIED="1591259817290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
+    <SUITE FILE_PATH="coverage/Software_University$07_Flatten_Lists.coverage" NAME="07.Flatten_Lists Coverage Results" MODIFIED="1591259345677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
     <SUITE FILE_PATH="coverage/Software_University$03_Capitals.coverage" NAME="03.Capitals Coverage Results" MODIFIED="1591096924496" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises" />
     <SUITE FILE_PATH="coverage/Software_University$03_Even_Matrix.coverage" NAME="03.Even_Matrix Coverage Results" MODIFIED="1591087333839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab" />
     <SUITE FILE_PATH="coverage/Software_University$04_Flattening_Matrix.coverage" NAME="04.Flattening_Matrix Coverage Results" MODIFIED="1591093476568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab" />
