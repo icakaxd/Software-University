@@ -1,0 +1,11 @@
+<?php
+if (!isset($_POST['ok'])):
+    ?>
+    <form>
+        Name: <input name="name" placeholder="Your name"/>
+        <input name="ok" type="submit"/>
+    </form>
+<?php
+else:
+    echo "Hello, " . $_POST['name'];
+endif;

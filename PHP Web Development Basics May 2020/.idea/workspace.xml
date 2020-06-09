@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2ff30837-340d-43ef-a269-999b4a6655ac" name="Default Changelist" comment="Solved 01. Print Month">
-      <change afterPath="$PROJECT_DIR$/01.ADVANCED SYNTAX AND OPERATIONS/Lab/02.Reverse_an_Array_of_Integers.php" afterDir="false" />
+    <list default="true" id="2ff30837-340d-43ef-a269-999b4a6655ac" name="Default Changelist" comment="Solved easily. Remembered the &quot;as&quot; keyword in the foreach loop.">
+      <change afterPath="$PROJECT_DIR$/01.ADVANCED SYNTAX AND OPERATIONS/Lab/03.Triple_Sum.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/02.HTTP AND HTML BASICS/Exercises/01.Hello_Person.phtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.ADVANCED SYNTAX AND OPERATIONS/Lab/01.Print_Month.php" beforeDir="false" afterPath="$PROJECT_DIR$/01.ADVANCED SYNTAX AND OPERATIONS/Lab/01.Print_Month.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +31,13 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -42,12 +49,22 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="PHP Script.02.Reverse_an_Array_of_Integers.php">
+  <component name="RunManager" selected="JavaScript Debug.01.Hello_Person.phtml">
+    <configuration name="01.Hello_Person.phtml" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/PHP Web Development Basics May 2020/02.HTTP AND HTML BASICS/Exercises/01.Hello_Person.phtml" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="01.Print_Month.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/01.ADVANCED SYNTAX AND OPERATIONS/Lab/01.Print_Month.php">
       <CommandLine>
         <PhpTestInterpreterSettings>
@@ -74,6 +91,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.01.Hello_Person.phtml" />
         <item itemvalue="PHP Script.02.Reverse_an_Array_of_Integers.php" />
         <item itemvalue="PHP Script.01.Print_Month.php" />
       </list>
@@ -89,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1591260930296</updated>
-      <workItem from="1591260931764" duration="1066000" />
+      <workItem from="1591260931764" duration="2818000" />
     </task>
     <task id="LOCAL-00001" summary="Solved 01. Print Month">
       <created>1591261514890</created>
@@ -105,7 +123,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591261520605</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added &quot;Invalid Month!&quot; if the input is &gt; 12">
+      <created>1591262053741</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591262053741</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Solved easily. Remembered the &quot;as&quot; keyword in the foreach loop.">
+      <created>1591262117784</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591262117784</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,32 +156,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Solved 01. Print Month" />
-    <option name="LAST_COMMIT_MESSAGE" value="Solved 01. Print Month" />
+    <MESSAGE value="Added &quot;Invalid Month!&quot; if the input is &gt; 12" />
+    <MESSAGE value="Solved easily. Remembered the &quot;as&quot; keyword in the foreach loop." />
+    <option name="LAST_COMMIT_MESSAGE" value="Solved easily. Remembered the &quot;as&quot; keyword in the foreach loop." />
   </component>
   <component name="WindowStateProjectService">
     <state x="141" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1591261468944">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
     <state x="141" y="56" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.28.1366.739@0.28.1366.739" timestamp="1591261468944" />
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1591261859718">
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom" timestamp="1591272835403">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.28.1366.739@0.28.1366.739" timestamp="1591261859718" />
-    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1591261859717">
+    <state width="1324" height="177" key="GridCell.Tab.0.bottom/0.28.1366.739@0.28.1366.739" timestamp="1591272835403" />
+    <state width="1324" height="177" key="GridCell.Tab.0.center" timestamp="1591272835403">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.center/0.28.1366.739@0.28.1366.739" timestamp="1591261859717" />
-    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1591261859717">
+    <state width="1324" height="177" key="GridCell.Tab.0.center/0.28.1366.739@0.28.1366.739" timestamp="1591272835403" />
+    <state width="1324" height="177" key="GridCell.Tab.0.left" timestamp="1591272835402">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.left/0.28.1366.739@0.28.1366.739" timestamp="1591261859717" />
-    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1591261859718">
+    <state width="1324" height="177" key="GridCell.Tab.0.left/0.28.1366.739@0.28.1366.739" timestamp="1591272835402" />
+    <state width="1324" height="177" key="GridCell.Tab.0.right" timestamp="1591272835403">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
-    <state width="1324" height="177" key="GridCell.Tab.0.right/0.28.1366.739@0.28.1366.739" timestamp="1591261859718" />
-    <state x="501" y="324" width="356" height="144" key="NewPhpFileDialog" timestamp="1591261547200">
+    <state width="1324" height="177" key="GridCell.Tab.0.right/0.28.1366.739@0.28.1366.739" timestamp="1591272835403" />
+    <state x="501" y="324" width="356" height="144" key="NewPhpFileDialog" timestamp="1591262145615">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
-    <state x="501" y="324" width="356" height="144" key="NewPhpFileDialog/0.28.1366.739@0.28.1366.739" timestamp="1591261547200" />
+    <state x="501" y="324" width="356" height="144" key="NewPhpFileDialog/0.28.1366.739@0.28.1366.739" timestamp="1591262145615" />
   </component>
 </project>

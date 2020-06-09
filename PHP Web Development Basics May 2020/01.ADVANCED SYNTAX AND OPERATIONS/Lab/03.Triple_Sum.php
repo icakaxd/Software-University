@@ -1,0 +1,2 @@
+<?php
+$nums = explode(' ', readline());
