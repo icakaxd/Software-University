@@ -19,69 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c095d5b3-cb94-40b4-b3c5-47e92aab61c8" name="Default Changelist" comment="The forgotten ones xD">
-      <change beforePath="$PROJECT_DIR$/.idea/Software-University.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Software-University.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="c095d5b3-cb94-40b4-b3c5-47e92aab61c8" name="Default Changelist" comment="Main Changelist">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP Web Development Basics May 2020/.idea/PHP Web Development Basics May 2020.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PHP Web Development Basics May 2020/.idea/PHP Web Development Basics May 2020.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP Web Development Basics May 2020/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PHP Web Development Basics May 2020/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP Web Development Basics May 2020/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PHP Web Development Basics May 2020/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP Web Development Basics May 2020/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PHP Web Development Basics May 2020/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP Web Development Basics May 2020/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/PHP Web Development Basics May 2020/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP Web Development Basics May 2020/01.ADVANCED SYNTAX AND OPERATIONS/Lab/01.Print_Month.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP Web Development Basics May 2020/01.ADVANCED SYNTAX AND OPERATIONS/Lab/01.Print_Month.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP Web Development Basics May 2020/01.ADVANCED SYNTAX AND OPERATIONS/Lab/02.Reverse_an_Array_of_Integers.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP Web Development Basics May 2020/01.ADVANCED SYNTAX AND OPERATIONS/Lab/02.Reverse_an_Array_of_Integers.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP Web Development Basics May 2020/01.ADVANCED SYNTAX AND OPERATIONS/Lab/03.Triple_Sum.php" beforeDir="false" afterPath="$PROJECT_DIR$/PHP Web Development Basics May 2020/01.ADVANCED SYNTAX AND OPERATIONS/Lab/03.Triple_Sum.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PHP Web Development Basics May 2020/02.HTTP AND HTML BASICS/Exercises/01.Hello_Person.phtml" beforeDir="false" afterPath="$PROJECT_DIR$/PHP Web Development Basics May 2020/02.HTTP AND HTML BASICS/Exercises/01.Hello_Person.phtml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/01.Reverse_Numbers_with_a_Stack.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/01.Reverse_Numbers_with_a_Stack.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/02.Maximum_and_Minimum_Element.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/02.Maximum_and_Minimum_Element.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/03.Fast_Food.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/03.Fast_Food.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/04.Fashion_Boutique.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/04.Fashion_Boutique.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/05.Truck_Tour.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/05.Truck_Tour.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/06.Balanced_Parentheses.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/06.Balanced_Parentheses.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/07.Rototics.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/07.Rototics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/08.Crossroads.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/08.Crossroads.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/09.Key_Revolver.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/09.Key_Revolver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/10.Cups_and_Bottles.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Exercises/10.Cups_and_Bottles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Lab/01.Reverse_Strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Lab/01.Reverse_Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Lab/02.Matching_Brackets.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Lab/02.Matching_Brackets.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Lab/02.Matching_Brackets_2.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Lab/02.Matching_Brackets_2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Lab/03.Supermarket.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Lab/03.Supermarket.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Lab/04.Water_Dispenser.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/01.Stacks And Queues/Lab/04.Water_Dispenser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Exercises/01.Unique_Usernames.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Exercises/01.Unique_Usernames.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Exercises/02.Sets_of_Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Exercises/02.Sets_of_Elements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Exercises/03.Periodic_Table.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Exercises/03.Periodic_Table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Exercises/04.Count_Symbols.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Exercises/04.Count_Symbols.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Exercises/05.PhoneBook.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Exercises/05.PhoneBook.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Exercises/06.Longest_Intersection.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Exercises/06.Longest_Intersection.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Lab/01.Count_Same_Values.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Lab/01.Count_Same_Values.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Lab/02.Average_Student_Grades.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Lab/02.Average_Student_Grades.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Lab/03.Record_Unique_Names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Lab/03.Record_Unique_Names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Lab/04.Parking_Lot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Lab/04.Parking_Lot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Lab/05.SoftUni_Party.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Lab/05.SoftUni_Party.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Lab/06.Battle_Of_Names.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/02.Tuples And Sets/Lab/06.Battle_Of_Names.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/01.Sum_Matrix_Elements.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/01.Sum_Matrix_Elements.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/02.Sum_Matrix_Columns.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/02.Sum_Matrix_Columns.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/03.Primary_Diagonal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/03.Primary_Diagonal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/04.Symbol_Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/04.Symbol_Matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/05.Square_with_Maximum_Sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/03. Multidumensional Lists/Lab/05.Square_with_Maximum_Sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/01.Word_Filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/01.Word_Filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/02.Words_Lengths.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/02.Words_Lengths.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/03.Capitals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/03.Capitals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/04.Number_Classification.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/04.Number_Classification.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/05.Diagonals.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/05.Diagonals.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/06.Matrix_of_Palindromes.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/06.Matrix_of_Palindromes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/07.Flatten_Lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/07.Flatten_Lists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/08.Heroes_Inventory.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Exercises/08.Heroes_Inventory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab/01.ASCII_Values.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab/01.ASCII_Values.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab/02.No_Vowels.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab/02.No_Vowels.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab/03.Even_Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab/03.Even_Matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab/04.Flattening_Matrix.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab/04.Flattening_Matrix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab/05.Filter_Numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python Advanced May 2020/04.Comprehension/Lab/05.Filter_Numbers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/bin/Activate.ps1" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/Activate.ps1" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/bin/activate" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/venv/bin/activate.csh" beforeDir="false" afterPath="$PROJECT_DIR$/venv/bin/activate.csh" afterDir="false" />
@@ -584,6 +524,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Христо Дамянов &lt;48856853+icakaxd@users.noreply.github.com&gt;" />
+      </list>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="RESET_MODE" value="MIXED" />
   </component>
@@ -774,7 +719,7 @@
       <workItem from="1591863541542" duration="12000" />
       <workItem from="1591865772653" duration="2748000" />
       <workItem from="1592204762689" duration="3310000" />
-      <workItem from="1592253139058" duration="3388000" />
+      <workItem from="1592253139058" duration="4005000" />
     </task>
     <task id="LOCAL-00001" summary="First problem solved both with comprehensions and normal loops.">
       <created>1590838838170</created>
@@ -937,7 +882,14 @@
       <option name="project" value="LOCAL" />
       <updated>1592256161406</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Ignore venv and .idea">
+      <created>1592256660721</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1592256660721</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -957,6 +909,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
     <MESSAGE value="First problem solved both with comprehensions and normal loops." />
     <MESSAGE value="Second problem solved. Cannot think of a comprehension." />
     <MESSAGE value="idk" />
@@ -970,11 +923,11 @@
     <MESSAGE value="75/100" />
     <MESSAGE value="Shortened code." />
     <MESSAGE value="Solved (08.) Heroes Inventories" />
-    <MESSAGE value="The forgotten ones xD" />
     <MESSAGE value="python" />
     <MESSAGE value="Remove venv from versioning" />
     <MESSAGE value="566 files pushed. Dunno what I've done." />
     <MESSAGE value="Nope. I'm bad with git." />
+    <MESSAGE value="The forgotten ones xD" />
     <MESSAGE value="Ignore venv and .idea" />
     <option name="LAST_COMMIT_MESSAGE" value="Ignore venv and .idea" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
@@ -997,6 +950,10 @@
       <screen x="0" y="35" width="1366" height="733" />
     </state>
     <state x="419" y="127" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.35.1366.733@0.35.1366.733" timestamp="1592254880005" />
+    <state x="282" y="35" key="CommitChangelistDialog2" timestamp="1592256847151">
+      <screen x="0" y="35" width="1366" height="733" />
+    </state>
+    <state x="282" y="35" key="CommitChangelistDialog2/0.35.1366.733@0.35.1366.733" timestamp="1592256847151" />
     <state x="130" y="35" key="DiffContextDialog" timestamp="1592255993018">
       <screen x="0" y="35" width="1366" height="733" />
     </state>
@@ -1005,7 +962,7 @@
       <screen x="0" y="28" width="1366" height="739" />
     </state>
     <state x="466" y="156" width="426" height="481" key="FileChooserDialogImpl/0.28.1366.739@0.28.1366.739" timestamp="1590848052398" />
-    <state width="1324" height="195" key="GridCell.Tab.0.bottom" timestamp="1592255079104">
+    <state width="1324" height="195" key="GridCell.Tab.0.bottom" timestamp="1592256870199">
       <screen x="0" y="35" width="1366" height="733" />
     </state>
     <state width="1324" height="199" key="GridCell.Tab.0.bottom.inPresentationMode" timestamp="1590846552602">
@@ -1014,8 +971,8 @@
     <state width="1324" height="199" key="GridCell.Tab.0.bottom.inPresentationMode/0.28.1366.739@0.28.1366.739" timestamp="1590846552602" />
     <state width="953" height="117" key="GridCell.Tab.0.bottom/0.28.1366.692@0.28.1366.692" timestamp="1591388476212" />
     <state width="1324" height="220" key="GridCell.Tab.0.bottom/0.28.1366.739@0.28.1366.739" timestamp="1591382741742" />
-    <state width="1324" height="195" key="GridCell.Tab.0.bottom/0.35.1366.733@0.35.1366.733" timestamp="1592255079104" />
-    <state width="1324" height="195" key="GridCell.Tab.0.center" timestamp="1592255079103">
+    <state width="1324" height="195" key="GridCell.Tab.0.bottom/0.35.1366.733@0.35.1366.733" timestamp="1592256870199" />
+    <state width="1324" height="195" key="GridCell.Tab.0.center" timestamp="1592256870198">
       <screen x="0" y="35" width="1366" height="733" />
     </state>
     <state width="1324" height="199" key="GridCell.Tab.0.center.inPresentationMode" timestamp="1590846552601">
@@ -1024,8 +981,8 @@
     <state width="1324" height="199" key="GridCell.Tab.0.center.inPresentationMode/0.28.1366.739@0.28.1366.739" timestamp="1590846552601" />
     <state width="953" height="117" key="GridCell.Tab.0.center/0.28.1366.692@0.28.1366.692" timestamp="1591388476211" />
     <state width="1324" height="220" key="GridCell.Tab.0.center/0.28.1366.739@0.28.1366.739" timestamp="1591382741741" />
-    <state width="1324" height="195" key="GridCell.Tab.0.center/0.35.1366.733@0.35.1366.733" timestamp="1592255079103" />
-    <state width="1324" height="195" key="GridCell.Tab.0.left" timestamp="1592255079102">
+    <state width="1324" height="195" key="GridCell.Tab.0.center/0.35.1366.733@0.35.1366.733" timestamp="1592256870198" />
+    <state width="1324" height="195" key="GridCell.Tab.0.left" timestamp="1592256870197">
       <screen x="0" y="35" width="1366" height="733" />
     </state>
     <state width="1324" height="199" key="GridCell.Tab.0.left.inPresentationMode" timestamp="1590846552601">
@@ -1034,8 +991,8 @@
     <state width="1324" height="199" key="GridCell.Tab.0.left.inPresentationMode/0.28.1366.739@0.28.1366.739" timestamp="1590846552601" />
     <state width="953" height="117" key="GridCell.Tab.0.left/0.28.1366.692@0.28.1366.692" timestamp="1591388476211" />
     <state width="1324" height="220" key="GridCell.Tab.0.left/0.28.1366.739@0.28.1366.739" timestamp="1591382741741" />
-    <state width="1324" height="195" key="GridCell.Tab.0.left/0.35.1366.733@0.35.1366.733" timestamp="1592255079102" />
-    <state width="1324" height="195" key="GridCell.Tab.0.right" timestamp="1592255079104">
+    <state width="1324" height="195" key="GridCell.Tab.0.left/0.35.1366.733@0.35.1366.733" timestamp="1592256870197" />
+    <state width="1324" height="195" key="GridCell.Tab.0.right" timestamp="1592256870198">
       <screen x="0" y="35" width="1366" height="733" />
     </state>
     <state width="1324" height="199" key="GridCell.Tab.0.right.inPresentationMode" timestamp="1590846552602">
@@ -1044,7 +1001,7 @@
     <state width="1324" height="199" key="GridCell.Tab.0.right.inPresentationMode/0.28.1366.739@0.28.1366.739" timestamp="1590846552602" />
     <state width="953" height="117" key="GridCell.Tab.0.right/0.28.1366.692@0.28.1366.692" timestamp="1591388476212" />
     <state width="1324" height="220" key="GridCell.Tab.0.right/0.28.1366.739@0.28.1366.739" timestamp="1591382741741" />
-    <state width="1324" height="195" key="GridCell.Tab.0.right/0.35.1366.733@0.35.1366.733" timestamp="1592255079104" />
+    <state width="1324" height="195" key="GridCell.Tab.0.right/0.35.1366.733@0.35.1366.733" timestamp="1592256870198" />
     <state width="1324" height="220" key="GridCell.Tab.1.bottom" timestamp="1591382741743">
       <screen x="0" y="28" width="1366" height="739" />
     </state>
@@ -1069,11 +1026,15 @@
       <screen x="0" y="28" width="1366" height="739" />
     </state>
     <state x="333" y="37" key="SettingsEditor/0.28.1366.739@0.28.1366.739" timestamp="1590847020824" />
-    <state x="344" y="87" width="802" height="525" key="Vcs.Push.Dialog.v2" timestamp="1592256163138">
+    <state x="552" y="297" key="VCS.EditChangelistDialog" timestamp="1592256824740">
+      <screen x="0" y="35" width="1366" height="733" />
+    </state>
+    <state x="552" y="297" key="VCS.EditChangelistDialog/0.35.1366.733@0.35.1366.733" timestamp="1592256824740" />
+    <state x="343" y="61" width="802" height="525" key="Vcs.Push.Dialog.v2" timestamp="1592256726487">
       <screen x="0" y="35" width="1366" height="733" />
     </state>
     <state x="278" y="134" width="802" height="525" key="Vcs.Push.Dialog.v2/0.28.1366.739@0.28.1366.739" timestamp="1591260619098" />
-    <state x="344" y="87" key="Vcs.Push.Dialog.v2/0.35.1366.733@0.35.1366.733" timestamp="1592256163138" />
+    <state x="343" y="61" key="Vcs.Push.Dialog.v2/0.35.1366.733@0.35.1366.733" timestamp="1592256726487" />
     <state x="138" y="135" width="1166" height="533" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1592255745295">
       <screen x="0" y="35" width="1366" height="733" />
     </state>
