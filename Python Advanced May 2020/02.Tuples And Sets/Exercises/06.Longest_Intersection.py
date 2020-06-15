@@ -20,17 +20,17 @@ print(f"Longest intersection is [{longest_intersection}] with length {longest_le
 
 """
 3
-0,3-1,2
-2,10-3,5
+0,3-1.txt.txt,2.txt.txt
+2.txt.txt,10-3,5
 6,15-3,10
 
 
 
 5
-0,10-2,5
-3,8-1,7
-1,8-2,4
-4,7-2,5
-1,10-2,11
+0,10-2.txt.txt,5
+3,8-1.txt.txt,7
+1.txt.txt,8-2.txt.txt,4
+4,7-2.txt.txt,5
+1.txt.txt,10-2.txt.txt,11
 
 """

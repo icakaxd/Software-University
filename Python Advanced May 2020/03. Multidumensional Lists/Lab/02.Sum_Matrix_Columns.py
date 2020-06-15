@@ -10,8 +10,8 @@ matrix = [[int(x) for x in input().split()] for i in range(x)]
 
 '''
 3, 6
-7 1 3 3 2 1
-1 3 9 8 5 6
-4 6 7 9 1 0
+7 1.txt.txt 3 3 2.txt.txt 1.txt.txt
+1.txt.txt 3 9 8 5 6
+4 6 7 9 1.txt.txt 0
 
 '''

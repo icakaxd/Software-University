@@ -1,5 +1,5 @@
 
-expression = input()  # "1 + (2 - (2 + 3) * 4 / (3 + 1)) * 5"
+expression = input()  # "1.txt.txt + (2.txt.txt - (2.txt.txt + 3) * 4 / (3 + 1.txt.txt)) * 5"
 
 opening_brackets = []
 

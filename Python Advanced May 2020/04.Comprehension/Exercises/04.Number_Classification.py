@@ -6,6 +6,6 @@ numbers = input().split(', ')
            'Odd': ', '.join(x for x in numbers if int(x) % 2 != 0)}.items()]
 
 """
-1, -2, 0, 5, 3, 4, -100, -20, 12, 19, -33
+1.txt.txt, -2.txt.txt, 0, 5, 3, 4, -100, -20, 12, 19, -33
 
 """

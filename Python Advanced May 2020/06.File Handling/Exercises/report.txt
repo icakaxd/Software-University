@@ -1,0 +1,15 @@
+.file
+- - - some.file
+- - - another.file
+.py
+- - - 04.Directory_Traversal.py
+- - - 02.Line_number.py
+- - - 01.Even_Lines.py
+- - - 03.File_Manipulator.py
+.txt
+- - - text.txt
+- - - output.txt
+- - - text_backup.txt
+- - - random.txt
+- - - 2.txt
+- - - 1.txt

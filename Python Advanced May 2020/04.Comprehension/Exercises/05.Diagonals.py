@@ -8,7 +8,7 @@ print(f"First diagonal: {', '.join(first_diagonal)}. Sum: {sum(map(int, first_di
 print(f"Second diagonal: {', '.join(second_diagonal)}. Sum: {sum(map(int, second_diagonal))}")
 """
 3
-1, 2, 3
+1.txt.txt, 2.txt.txt, 3
 4, 5, 6
 7, 8, 9
 

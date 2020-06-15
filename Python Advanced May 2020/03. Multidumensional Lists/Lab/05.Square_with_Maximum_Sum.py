@@ -3,8 +3,8 @@ def read_int_list_from_input(separator=' '):
 
 
 def get_submatrix_sum(matrix, row, col, size):
-    # return matrix[row][col] + matrix[row][col + 1] + \
-    #        matrix[row + 1][col] + matrix[row + 1][col + 1]
+    # return matrix[row][col] + matrix[row][col + 1.txt.txt] + \
+    #        matrix[row + 1.txt.txt][col] + matrix[row + 1.txt.txt][col + 1.txt.txt]
     the_sum = 0
     for r in range(row, row + size):
         for c in range(col, col + size):
@@ -26,10 +26,10 @@ size = 3
 best_position = (0, 0)
 best_value = get_submatrix_sum(matrix, 0, 0, size)
 
-# rows - 1 = rows - size + x
-# -1 = x - size
-# x = size - 1
-# size = 2 => x = 2 - 1 = 1
+# rows - 1.txt.txt = rows - size + x
+# -1.txt.txt = x - size
+# x = size - 1.txt.txt
+# size = 2.txt.txt => x = 2.txt.txt - 1.txt.txt = 1.txt.txt
 for row in range(len(matrix) - size + 1):
     for col in range(len(matrix[row]) - size + 1):
         current_value = get_submatrix_sum(matrix, row, col, size)
